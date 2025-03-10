@@ -20,7 +20,6 @@ A transformer-based AI system that generates monophonic musical sequences from t
 ```bash
 git clone https://github.com/your_username/musical-ai.git
 cd musical-ai
-pip install -r requirements.txt
 ```
 
 **Dependencies**:
